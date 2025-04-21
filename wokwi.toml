@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Revisao.uf2'
+elf = 'build/Revisao.elf'
